@@ -33,6 +33,25 @@ PRODUCT_PACKAGES += \
     HarmonyOS-Sans-Regular.ttf \
     HarmonyOS-Sans-ThinItalic.ttf \
     HarmonyOS-Sans-Thin.ttf \
+    Roboto-BlackItalic.ttf \
+    Roboto-Black.ttf \
+    Roboto-BoldItalic.ttf \
+    Roboto-Bold.ttf \
+    Roboto-Italic.ttf \
+    Roboto-LightItalic.ttf \
+    Roboto-Light.ttf \
+    Roboto-MediumItalic.ttf \
+    Roboto-Medium.ttf \
+    Roboto-ThinItalic.ttf \
+    Roboto-Thin.ttf \
+    RobotoCondensed-BoldItalic.ttf \
+    RobotoCondensed-Bold.ttf \
+    RobotoCondensed-Italic.ttf \
+    RobotoCondensed-LightItalic.ttf \
+    RobotoCondensed-Light.ttf \
+    RobotoCondensed-MediumItalic.ttf \
+    RobotoCondensed-Medium.ttf \
+    RobotoCondensed-Regular.ttf \
     Lexend-VF.ttf \
     Manrope-VF.ttf \
 

@@ -1,0 +1,81 @@
+/**
+ * Copyright (C) 2021 Raphielscape LLC.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+prebuilt_font {
+    name: "Roboto-BlackItalic.ttf",
+    src: "Roboto-BlackItalic.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-Black.ttf",
+    src: "Roboto-Black.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-BoldItalic.ttf",
+    src: "Roboto-BoldItalic.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-Bold.ttf",
+    src: "Roboto-Bold.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-Italic.ttf",
+    src: "Roboto-Italic.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-LightItalic.ttf",
+    src: "Roboto-LightItalic.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-Light.ttf",
+    src: "Roboto-Light.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-MediumItalic.ttf",
+    src: "Roboto-MediumItalic.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-Medium.ttf",
+    src: "Roboto-Medium.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-ThinItalic.ttf",
+    src: "Roboto-ThinItalic.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-Thin.ttf",
+    src: "Roboto-Thin.ttf",
+    product_specific: true,
+}
